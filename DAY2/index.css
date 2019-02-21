@@ -1,0 +1,22 @@
+body{
+    background-image: url("http://lorempixel.com/1280/720/cats");
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+}
+.head-page{
+    margin: 0;padding: 0;
+    color: #ffffff;
+}
+.top-bar{
+    background-color: #510d51;
+    height: 20vh;
+}
+.head-img{
+    position: absolute;
+    right: 100px;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 48px;
+}
